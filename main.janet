@@ -36,6 +36,7 @@ body {
     margin: 0 auto;
     padding-top: 1em;
     font-family: Iosevka, Comic Sans;
+    background-color: #f9f9f9;
 }
 #links {
     margin: 0 auto;
