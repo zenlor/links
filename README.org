@@ -1,0 +1,3 @@
+#+TITLE: links
+
+Just a service for my NAS to act as home page for lesser browsers (eg. steam, safari)
